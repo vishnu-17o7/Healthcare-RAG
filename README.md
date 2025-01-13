@@ -2,6 +2,8 @@
 
 A sophisticated health recommendation system that combines user health metrics with Retrieval-Augmented Generation (RAG) to provide personalized health advice and recommendations.
 
+![Demo Video](./Recording%202025-01-13%20231021.mp4)
+
 ## Features
 
 - **Health Metrics Monitoring**
