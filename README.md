@@ -4,6 +4,10 @@ A sophisticated health recommendation system that combines user health metrics w
 
 ![Demo Video](./Recording%202025-01-13%20231021.mp4)
 
+## System Architecture
+
+![RAG System Architecture](./rag-workflow-explained.png)
+
 ## Features
 
 - **Health Metrics Monitoring**
